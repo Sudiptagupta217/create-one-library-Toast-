@@ -1,7 +1,6 @@
-# create-one-library-Toast-
-create one library 
+# create-one-library-Toast
 
-Step 1. Add the JitPack repository to your build file
+<h2>Step 1. Add the JitPack repository to your build file</h2>
 
 ```allprojects {
 		repositories {
