@@ -11,8 +11,7 @@
 ```
 
 <h4>Step 2. Add the dependency</h4>
-```
-	dependencies {
+```dependencies {
 	        implementation 'com.github.Sudiptagupta217:create-one-library-Toast-:Tag'
 	}
 	```
