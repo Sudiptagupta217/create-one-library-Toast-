@@ -1,6 +1,6 @@
 # create-one-library-Toast
 
-<h2>Step 1. Add the JitPack repository to your build file</h2>
+<h4>Step 1. Add the JitPack repository to your build file</h4>
 
 ```allprojects {
 		repositories {
@@ -10,7 +10,7 @@
 	}
 ```
 
-Step 2. Add the dependency
+<h4>Step 2. Add the dependency</h4>
 ```
 	dependencies {
 	        implementation 'com.github.Sudiptagupta217:create-one-library-Toast-:Tag'
